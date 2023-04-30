@@ -2,7 +2,7 @@
 Text construction is an application used to create notes or code snippets locally to your computer, whether you are connected to WIFI or not.
 
 ## Installation Instructions
-*Install these into your terminal*
+*Install these into your terminal*<br>
 -npm install express<br>
 -npm install --omit-dev<br>
 <br>
