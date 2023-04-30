@@ -1,7 +1,5 @@
 # Text_Construction
-
 Text construction is an application used to create notes or code snippets locally to your computer, whether you are connected to WIFI or not.
-
 
 ## Installation Instructions
 *Install these into your terminal*
